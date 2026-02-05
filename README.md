@@ -19,7 +19,7 @@ Premium international placement agency connecting students and young professiona
 
 ## 📱 Website
 
-Live at: https://YOUR_USERNAME.github.io/elipath-website
+Live at: https://Elitepathway.github.io/elipath-website
 
 ## 📄 Copyright
 
